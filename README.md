@@ -12,8 +12,8 @@ Hey there! I am Onerun, also known as Karson. I love coding, and often use AI to
 
 Learning:
 
-![Learning Assembly](https://img.shields.io/badge/Assembly-Learning-blue?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Haskell Developer](https://img.shields.io/badge/Haskell-Developer-blue?style=for-the-badge&logo=haskell&logoColor=white)
-![Learning PHP](https://img.shields.io/badge/PHP-Learning-blue?style=for-the-badge&logo=php&logoColor=white)
-![Learning JSON](https://img.shields.io/badge/JSON-Learning-blue?style=for-the-badge&logo=json&logoColor=white)
-![Learning React](https://img.shields.io/badge/React-Learning-blue?style=for-the-badge&logo=react&logoColor=white)
+![Learning PHP](https://img.shields.io/badge/PHP-Learning-purple?style=for-the-badge&logo=php&logoColor=white)
+![Learning JSON](https://img.shields.io/badge/JSON-Learning-purple?style=for-the-badge&logo=json&logoColor=white)
+![Learning React](https://img.shields.io/badge/React-Learning-purple?style=for-the-badge&logo=react&logoColor=white)
+![Learning Assembly](https://img.shields.io/badge/Assembly-Learning-purple?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Learning Haskell](https://img.shields.io/badge/Haskell-Learning-purple?style=for-the-badge&logo=haskell&logoColor=white)
