@@ -4,7 +4,7 @@ Hey there! I am Onerun, also known as Karson. I love coding, and often use AI to
 
 ---
 
-Coding Languages I Know:
+### Coding Languages I Know:
 
 ![HTML Developer](https://img.shields.io/badge/HTML-Developer-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript Developer](https://img.shields.io/badge/JavaScript-Developer-blue?style=for-the-badge&logo=javascript&logoColor=white)
@@ -14,7 +14,7 @@ Coding Languages I Know:
 
 ---
 
-Coding Languages I'm Learning:
+### Coding Languages I'm Learning:
 
 ![Learning PHP](https://img.shields.io/badge/PHP-Learning-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Learning JSON](https://img.shields.io/badge/JSON-Learning-purple?style=for-the-badge&logo=json&logoColor=white)
