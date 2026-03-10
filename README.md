@@ -1,4 +1,4 @@
-## About Me!
+# About Me!
 
 Hey there! I am Onerun, also known as Karson. I love coding, and often use AI to fix things (because I'm lazy sometimes)
 
