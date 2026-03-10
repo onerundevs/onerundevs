@@ -27,3 +27,8 @@ Hey there! I am Onerun, also known as Karson. I love coding, and often use AI to
 All of my projects are **copyright protected** under the MIT public licenses, if you don't credit me (even if you fork) you will be banned on GitHub. Enough instances will lead to legal actions as stated in the MIT license.
 
 ![Copyright Protected](https://img.shields.io/badge/Copyright-Protected-black?style=for-the-badge&logo=copyright&logoColor=white)
+
+---
+
+[![Support Us](https://img.shields.io/badge/Support-Us-blue?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://shortie.xo.je/onerun)
+[![Contact Us](https://img.shields.io/badge/Contact-Us-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onerundevs@gmail.com)
