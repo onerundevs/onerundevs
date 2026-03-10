@@ -2,6 +2,10 @@
 
 Hey there! I am Onerun, also known as Karson. I love coding, and often use AI to fix things (because I'm lazy sometimes)
 
+---
+
+Coding Languages I Know:
+
 ![HTML Developer](https://img.shields.io/badge/HTML-Developer-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript Developer](https://img.shields.io/badge/JavaScript-Developer-blue?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS Developer](https://img.shields.io/badge/CSS-Developer-blue?style=for-the-badge&logo=css3&logoColor=white)
@@ -10,7 +14,7 @@ Hey there! I am Onerun, also known as Karson. I love coding, and often use AI to
 
 ---
 
-Learning:
+Coding Languages I'm Learning:
 
 ![Learning PHP](https://img.shields.io/badge/PHP-Learning-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Learning JSON](https://img.shields.io/badge/JSON-Learning-purple?style=for-the-badge&logo=json&logoColor=white)
