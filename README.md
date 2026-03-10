@@ -10,3 +10,10 @@ Hey there! I am Onerun, also known as Karson. I love coding, and often use AI to
 ![React Developer](https://img.shields.io/badge/React-Developer-blue?style=for-the-badge&logo=react&logoColor=white)
 ![JSON Developer](https://img.shields.io/badge/JSON-Developer-blue?style=for-the-badge&logo=json&logoColor=white)
 ![PHP Developer](https://img.shields.io/badge/PHP-Developer-blue?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+Learning:
+
+![Learning Assembly](https://img.shields.io/badge/Assembly-Learning-blue?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Haskell Developer](https://img.shields.io/badge/Haskell-Developer-blue?style=for-the-badge&logo=haskell&logoColor=white)
